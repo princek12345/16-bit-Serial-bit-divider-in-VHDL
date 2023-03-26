@@ -3,7 +3,7 @@
 
 Note :
 
-This was a part of HW-6 work at CALTECH in EE119a. Keep in Mind of Honor code of CALTECH before looking at the files.
+This was a part of HW-8 work at CALTECH in EE119a. Keep in Mind of Honor code of CALTECH before looking at the files.
 
 Honor Code :
 
