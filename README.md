@@ -1,5 +1,5 @@
 # 16-bit-Serial-bit-divider-in-VHDL
-16-bit Serial bit divider in VHDL has been done as a part of course work at CALTECH. The same has been implemented on FPGA.
+16-bit Serial bit divider in VHDL using non-restoring algorithm was designed as a part of course work at CALTECH. The same has been implemented on FPGA.
 
 Note :
 
